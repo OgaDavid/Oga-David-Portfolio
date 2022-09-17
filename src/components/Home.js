@@ -11,6 +11,7 @@ const Home = () => {
                 <h3 className='blue-clr'>I'm David Oga</h3>
                 <h1>A Top-notch Web Developer<span className='blue-clr'>,</span> <br />and Software Engineer<span className='blue-clr'>.</span></h1>
               </div>
+              
               <div className="social-links">
                 <a href="https://twitter.com/demiicoder"><img src="assets/linkedin.png" alt="" /></a>
                 <a href="https://www.linkedin.com/in/david-oga-74a8a6239/"><img src="assets/twitter.png" alt="" /></a>

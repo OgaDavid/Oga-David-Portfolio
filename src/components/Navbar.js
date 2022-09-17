@@ -14,6 +14,7 @@ const Navbar = () => {
                 <h1>David Oga<span className='blue-clr'>.</span></h1>
             </div>
             <div className="navlinks responsive-nav" ref={navRef}>
+                
                 <ul>
                     <li><a href="#about">About Me </a></li>
                     <li><a href="#stack">Stack</a></li>
