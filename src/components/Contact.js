@@ -48,7 +48,7 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className="contact-form">
-                    <form action="">
+                    <form action="mailto:oluwademiladedavidoga@gmail.com">
                         <input type="text" placeholder='Enter Your Full Name' className='form-inputs' />
                         <input type="email" placeholder='Enter Your Email Address' className='form-inputs' />
                         <textarea name="" id="" cols="30" rows="1" placeholder='Write Your Message'className='form-inputs' ></textarea>
